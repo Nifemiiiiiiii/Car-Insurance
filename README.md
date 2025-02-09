@@ -32,9 +32,24 @@ The dashboard provides an interactive interface featuring:
 ✅ Key Metrics Summary – average claim rates, Valid claim frequency, coverage zone and income bucket 
 ✅ Demographic Insights – Customer distribution by education, gender, and location.
 
-Analysis and Visualizations:
-1️⃣ Customer Claim Frequency – Analyzed which education level file the most claims.
-2️⃣ 
+## Analysis and Visualizations:
+
+#### 1. Customer Claim Frequency – Analyzed which education level file the most claims. 
+
+![image](https://github.com/user-attachments/assets/69ac6ac9-c76c-4bbc-8d9f-074f9665716c)
+
+Bachelor's Degree holder have highest Average claim amount compared to masters, high school and Ph.D holders.
+
+#### 2. High-Risk Groups:
+
+![image](https://github.com/user-attachments/assets/f9ac1f17-07bb-4eb0-ab0b-7071a5119a21)
+
+Ph.D holders had the lowest claim frequency.
+
+
+Male drivers filed more claims than female drivers.
+Very High Income earners have the highest claim amount 
+
 
 Key Insights & Individual Points from Visualizations:
 📌 Age & Claim Frequency: Younger drivers (18–25) have higher claim rates than older drivers.
