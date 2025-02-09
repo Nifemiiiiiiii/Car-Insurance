@@ -1,6 +1,6 @@
 # A Comprehensive Analysis of Car Insurance Policies: Customer Behavior, Claims, and Risk Assessment
 
-![image](https://github.com/user-attachments/assets/69519ed9-508e-4224-a8f4-548158c567aa)
+![image](https://github.com/user-attachments/assets/0bcd361e-0c5a-4064-8422-30617e4c0a42)
 
 ## Project Overview:
 
@@ -30,6 +30,7 @@ The dashboard provides an interactive interface featuring:
 ![image](https://github.com/user-attachments/assets/50595ab5-4681-46f0-95e9-bddb4325567a)
 
 ✅ Key Metrics Summary – average claim rates, Valid claim frequency, coverage zone and income bucket 
+
 ✅ Demographic Insights – Customer distribution by education, gender, and location.
 
 ## Analysis and Visualizations:
@@ -46,32 +47,52 @@ Bachelor's Degree holder have highest Average claim amount compared to masters, 
 
 Ph.D holders had the lowest claim frequency.
 
+![image](https://github.com/user-attachments/assets/8e1603f3-8669-4de4-b91d-a8e7b9720f03)
 
 Male drivers filed more claims than female drivers.
+
+![image](https://github.com/user-attachments/assets/0739be49-6743-4bbf-a330-dd748012b08c)
+
 Very High Income earners have the highest claim amount 
 
+#### 3.Car Usage: 
 
-Key Insights & Individual Points from Visualizations:
-📌 Age & Claim Frequency: Younger drivers (18–25) have higher claim rates than older drivers.
-📌 Premium Variation: Comprehensive policies have 40% higher premiums than third-party insurance.
-📌 Settlement Delays: 15% of claims are delayed due to incomplete documentation.
-📌 High-Risk Regions: Urban areas have a 30% higher claim frequency than rural areas.
-📌 Loyalty Trends: Customers with low claim history are 50% more likely to renew policies.
-📌 Fraud Indicators: 5% of claims show potential fraudulent behavior based on claim amount spikes.
+![image](https://github.com/user-attachments/assets/31eeabfc-8935-49fb-b5ff-27e1f9f9dd41)
 
-Insights & Recommendations:
-🔹 Risk-Based Pricing: Adjust premiums based on customer demographics and driving history.
+Private car use had higher claim amounts compared to commercial use.
+
+#### 5. Car Color
+
+![image](https://github.com/user-attachments/assets/b75b040f-f071-470e-a47c-92abd1b36e2e)
+
+Aquamarine cars had the highest claim frequency.
+
+
+## Insights & Recommendations
+
+🔹 Risk-Based Pricing: Adjust claims based on customer demographics and driving history.
+
 🔹 Fraud Detection Algorithms: Implement AI models to flag suspicious claims for further review.
+
 🔹 Claims Process Optimization: Reduce settlement delays by automating document verification.
+
 🔹 Customer Retention Strategies: Offer discounts for claim-free years to encourage renewals.
+
 🔹 Geographic-Specific Pricing: Increase premiums in high-risk urban areas to balance claim costs.
+
 🔹 Improved Customer Education: Guide customers on claim documentation to reduce processing time.
 
-Conclusions (6 Bullet Points):
-✔ Young drivers have higher claim rates, requiring stricter risk assessment.
+## Conclusions 
+
+✔ Male drivers have higher claim rates, requiring stricter risk assessment.
+
 ✔ Comprehensive policies, while costly, provide broader protection and are preferred in urban areas.
-✔ Delayed claims often result from documentation issues, highlighting a need for process automation.
-✔ Fraudulent claims are identifiable through historical patterns and should be flagged using AI.
+
+✔ Fraudulent claims are identifiable through historical patterns and should be flagged.
+
 ✔ Loyal customers with no claims should be incentivized to improve retention.
+
 ✔ A data-driven approach to pricing and risk assessment can optimize insurance profitability.
+
+Insurance companies can use these insights to optimize pricing and reduce claim payouts.
 
